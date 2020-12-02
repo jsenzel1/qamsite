@@ -5,10 +5,11 @@ line-height: 1.8;
 font-family: "Georgia";
 font-size: 1.2em;
   
-width: 90%;
+width: 100%;
 margin: auto;
 
-background-color: #ecf4ff;
+/* background-color: #ecf4ff; */
+background: linear-gradient(rgb(125, 148, 253) 61%, rgb(255, 255, 156) 61%);
 color:  #292929;
 }
 canvas {
